@@ -2,7 +2,7 @@
 
 🎓 Electrical Engineering Undergraduate at IIT Ropar
 
-⚡ Currently focused on Analog Electronics and Digital Electronics, with a growing interest in electronic system design and hardware development.
+⚡ Currently focused on Analog Electronics and Digital Electronics, with a growing interest in electronic system design, hardware development, and digital systems.
 
 🤖 Beyond academics, I actively pursue Robotics, Embedded Systems, and Software Development as areas of deep interest, building projects that bridge hardware and software to solve real-world engineering problems.
 
@@ -11,11 +11,32 @@
 ## 🚀 About Me
 
 - 🎓 Electrical Engineering @ IIT Ropar
-- ⚡ Currently exploring Analog Electronics, Digital Electronics, and Electronic System Design
+- ⚡ Currently exploring Analog Electronics, Digital Electronics, Electronic System Design, and Logic Design
 - 🤖 Building robotics and embedded systems projects as a hobby and long-term technical interest
 - 💻 Developing software tools and applications that complement hardware systems
 - 🛠️ Experience with ROS2, embedded development, CAD design, PCB design, and desktop application development
 - 📚 Continuously learning through hands-on engineering projects and experimentation
+
+---
+
+## 🎯 Current Focus Areas
+
+### Academic & Technical Focus
+
+- Analog Electronics
+- Digital Electronics
+- Electronic System Design
+- Logic Design & Computer Architecture
+- PCB Design
+
+### Projects & Personal Interests
+
+- Robotics
+- Embedded Systems
+- Autonomous Systems
+- Industrial Automation
+- Software Development
+- Control Systems
 
 ---
 
@@ -56,7 +77,7 @@ A responsive portfolio website showcasing projects, technical experience, achiev
 
 🔗 Website: https://harshit-kalra.vercel.app
 
-🔗 Repository: https://github.com/YOUR_USERNAME/portfolio
+🔗 Repository: https://github.com/harshitkalra03
 
 ---
 
@@ -64,7 +85,7 @@ A responsive portfolio website showcasing projects, technical experience, achiev
 
 Desktop application built using Electron, Node.js, GitHub integration, and JSON-based content management workflows to streamline content organization and publishing.
 
-🔗 Repository: https://github.com/YOUR_USERNAME/linkedin-content-management-portal
+🔗 Repository: *(Add repository link when public)*
 
 ---
 
@@ -80,7 +101,7 @@ Inter IIT Tech Meet 14.0 project featuring autonomous navigation, SLAM, QR-based
 
 Autonomous maze-solving robot developed for Technoxian using Teensy 4.1, wheel encoders, ToF sensors, and custom navigation algorithms.
 
-🔗 Repository: https://github.com/YOUR_USERNAME/micromouse
+🔗 Repository: *(Add repository link when public)*
 
 ---
 
@@ -88,15 +109,15 @@ Autonomous maze-solving robot developed for Technoxian using Teensy 4.1, wheel e
 
 Arduino-based robotic arm capable of manual and automated operation with multiple control modes.
 
-🔗 Repository: https://github.com/YOUR_USERNAME/robotic-arm
+🔗 Repository: *(Add repository link when public)*
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshitkalra03&show_icons=true&rank_icon=github&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkalra03&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -104,7 +125,7 @@ Arduino-based robotic arm capable of manual and automated operation with multipl
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+  <img src="https://streak-stats.demolab.com?user=harshitkalra03&hide_border=true" />
 </p>
 
 ---
@@ -112,7 +133,7 @@ Arduino-based robotic arm capable of manual and automated operation with multipl
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitkalra03&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -127,23 +148,4 @@ Arduino-based robotic arm capable of manual and automated operation with multipl
 
 ---
 
-## 🎯 Current Focus Areas
-
-### Academic & Technical Focus
-- Analog Electronics
-- Digital Electronics
-- Electronic System Design
-- Logic Design & Computer Architecture
-- PCB Design
-
-### Projects & Personal Interests
-- Robotics
-- Embedded Systems
-- Autonomous Systems
-- Industrial Automation
-- Software Development
-- Control Systems
-
----
-
-> "Engineering is not just about building things — it's about understanding problems deeply enough to create meaningful solutions."
+> Building engineering solutions at the intersection of electronics, embedded systems, robotics, and software.
