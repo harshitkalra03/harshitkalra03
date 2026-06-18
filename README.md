@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Github banner" width="100%" />
+</p>
+
 # Hi, I'm Harshit Kalra 👋
 
 🎓 Electrical Engineering Undergraduate at IIT Ropar
