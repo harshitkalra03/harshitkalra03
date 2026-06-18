@@ -81,11 +81,11 @@ A responsive portfolio website showcasing projects, technical experience, achiev
 
 ---
 
-### 💼 LinkedIn Content Management Portal
+### 💼 Portfolio Content Management Portal
 
 Desktop application built using Electron, Node.js, GitHub integration, and JSON-based content management workflows to streamline content organization and publishing.
 
-🔗 Repository: *(Add repository link when public)*
+🔗 Repository: *https://github.com/harshitkalra03/Portfolio-Content-Manager*
 
 ---
 
@@ -101,7 +101,15 @@ Inter IIT Tech Meet 14.0 project featuring autonomous navigation, SLAM, QR-based
 
 Autonomous maze-solving robot developed for Technoxian using Teensy 4.1, wheel encoders, ToF sensors, and custom navigation algorithms.
 
-🔗 Repository: *(Add repository link when public)*
+🔗 Repository: *https://github.com/harshitkalra03/maze-solver*
+
+---
+
+### 🚗 Gesture Controlled Car
+
+A wireless gesture-controlled robotic vehicle that interprets hand movements using motion sensing and transmits commands in real time for intuitive robot control.
+
+🔗 Repository: *https://github.com/harshitkalra03/Gesture_Controlled_Car*
 
 ---
 
@@ -109,7 +117,7 @@ Autonomous maze-solving robot developed for Technoxian using Teensy 4.1, wheel e
 
 Arduino-based robotic arm capable of manual and automated operation with multiple control modes.
 
-🔗 Repository: *(Add repository link when public)*
+🔗 Repository: *https://github.com/harshitkalra03/Robotic_Arm_Advanced*
 
 ---
 
